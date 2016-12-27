@@ -99,7 +99,7 @@ public class TargetListActivity extends AppCompatActivity {
                     targetImage.setImageResource(R.mipmap.ic_launcher);
                 }*/
 
-                targetImage.setImageBitmap( decodeSampledbitmapFromFile(imgAddr[position], 55, 55));
+                targetImage.setImageBitmap( decodeSampledbitmapFromFile(imgAddr[position], 55, 55));   //decodeSampleFromFile Function body @last
             }
 
 
