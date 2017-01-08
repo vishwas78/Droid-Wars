@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">DroidWars</string>
+
+    <string name="arya">Arya Stark\nThird child of Eddard and Catelyn Stark and the Owner of this application. She swore revenge on those who killed her family.
+        Trained in Braavos, she is a furious assassin. She will kill everyone in her list and will not rest till she do so.
+    </string>
+
+    <string name="bran">
+        Brandon Stark\n
+        Second son of Eddard and Catelyn Stark. He is sweet and thoughtful boy loved by everyone in Winterfell.
+        His favourite activities include climbing walls and ramant of castle. But unfortunately lost his legs in a tragic accident.
+        He has powers to control animals accordingto his will.
+    </string>
+
+    <string name="catlyn">
+        Catelyn Stark\n
+        Wife of Eddard Stark.
+    </string>
+
+    <string name="iron_throne">
+        Iron Throne\n
+        The central point of game of thrones.
+    </string>
+
+    <string name="john">
+        John Snow\n
+        commander of night\'s watch
+    </string>
+
+    <string name="robb">
+        Robb Stark\n
+        Eldest son of Ned Stark and King in the north.
+    </string>
+
+    <string name="sansa">
+        Sansa Stark\n
+        Eldest Daughter of Ned Stark.
+    </string>
+
+    <string name="stark_sigil">
+        Stark\'s Sigil\n
+        Winter Is Coming.
+    </string>
+
+    <string name="night_king">
+        Night King\n
+        The king of white walkers, zombies who control the dead and wakes up only in winter.
+    </string>
+
+    <string name="dragon_image">
+        Dragon\n
+        One of the last three 3 remaining.
+    </string>
+
+</resources>
